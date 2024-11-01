@@ -1,3 +1,4 @@
+// java -classpath ~/java/json-20240303.jar SimpleHttpGet.java
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;

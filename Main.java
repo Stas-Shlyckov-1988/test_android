@@ -1,3 +1,4 @@
+// java -classpath /usr/share/java/mysql-connector-java-9.1.0.jar Main.java
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
